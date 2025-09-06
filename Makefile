@@ -20,7 +20,7 @@ help:
 # Build for current platform
 build:
 	@echo "Building YAWI..."
-	go build -ldflags "-s -w" -o yawi ./cmd/yawi.go
+	go build -ldflags "-s -w" -o yawi ./cmd/yawi
 	@echo "Build complete! Binary: ./yawi"
 
 # Clean up
@@ -65,7 +65,7 @@ deps:
 # Install to GOPATH/bin
 install:
 	@echo "Installing YAWI..."
-	go install ./cmd/yawi.go
+	go install ./cmd/yawi
 	@echo "YAWI installed!"
 
 

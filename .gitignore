@@ -18,7 +18,7 @@
 go.work
 
 # Built binaries
-yawi
+/yawi
 yawi-*
 
 # Release artifacts
