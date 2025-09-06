@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"yawi/pkg/compositor"
+	"github.com/alde/yawi/pkg/compositor"
 )
 
 func TestNewProvider(t *testing.T) {

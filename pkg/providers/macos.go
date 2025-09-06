@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"yawi/pkg/window"
+	"github.com/alde/yawi/pkg/window"
 )
 
 // MacOSProvider implements window information retrieval for macOS

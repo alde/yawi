@@ -6,7 +6,7 @@ import (
 	"net"
 	"os"
 
-	"yawi/pkg/window"
+	"github.com/alde/yawi/pkg/window"
 )
 
 // SwayProvider implements window information retrieval for Sway

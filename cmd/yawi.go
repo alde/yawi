@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"yawi/pkg/compositor"
-	"yawi/pkg/providers"
+	"github.com/alde/yawi/pkg/compositor"
+	"github.com/alde/yawi/pkg/providers"
 )
 
 var (

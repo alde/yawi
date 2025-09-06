@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"yawi/pkg/window"
+	"github.com/alde/yawi/pkg/window"
 )
 
 // HyprlandProvider implements window information retrieval for Hyprland

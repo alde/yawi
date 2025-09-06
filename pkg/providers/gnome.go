@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/godbus/dbus/v5"
-	"yawi/pkg/window"
+	"github.com/alde/yawi/pkg/window"
 )
 
 // GNOMEProvider implements window information retrieval for GNOME Shell

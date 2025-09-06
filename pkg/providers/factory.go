@@ -3,8 +3,8 @@ package providers
 import (
 	"fmt"
 
-	"yawi/pkg/compositor"
-	"yawi/pkg/window"
+	"github.com/alde/yawi/pkg/compositor"
+	"github.com/alde/yawi/pkg/window"
 )
 
 // NewProvider creates a window provider for the given compositor/window manager type
