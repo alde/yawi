@@ -1,6 +1,6 @@
-module yawi
+module github.com/alde/yawi
 
-go 1.21
+go 1.25
 
 require (
 	github.com/godbus/dbus/v5 v5.1.0
